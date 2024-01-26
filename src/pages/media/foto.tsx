@@ -15,11 +15,11 @@ export default function RegistrationFees() {
     <Stack>
       <PageHeader
         bg={departmentColors.engage}
-        title={t("Engage.Registration.Title")}
+        title={t("Media.Foto.Title")}
       />
-      <RequirementsSection />
+      {/* <RequirementsSection />
       <FeesSection />
-      <DiscountSection />
+      <DiscountSection /> */}
     </Stack>
   );
 }

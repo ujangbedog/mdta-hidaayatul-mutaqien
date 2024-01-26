@@ -27,53 +27,53 @@ const RequirementsSection = () => {
 
   const requirementsSection = [
     {
-      title: t("Engage.Registration.Requirements.Title"),
+      title: t("Media.Registration.Requirements.Title"),
       lists: [
         {
-          title: t("Engage.Registration.Requirements.Id.Title"),
+          title: t("Media.Registration.Requirements.Id.Title"),
           items: [
-            t("Engage.Registration.Requirements.Id.Point1"),
-            t("Engage.Registration.Requirements.Id.Point2"),
-            t("Engage.Registration.Requirements.Id.Point3"),
-            t("Engage.Registration.Requirements.Id.Point4"),
-            t("Engage.Registration.Requirements.Id.Point5"),
+            t("Media.Registration.Requirements.Id.Point1"),
+            t("Media.Registration.Requirements.Id.Point2"),
+            t("Media.Registration.Requirements.Id.Point3"),
+            t("Media.Registration.Requirements.Id.Point4"),
+            t("Media.Registration.Requirements.Id.Point5"),
           ],
           trigger: "1",
         },
         {
-          title: t("Engage.Registration.Requirements.LastSchool.Title"),
+          title: t("Media.Registration.Requirements.LastSchool.Title"),
           items: [
-            t("Engage.Registration.Requirements.LastSchool.Point1"),
-            t("Engage.Registration.Requirements.LastSchool.Point2"),
+            t("Media.Registration.Requirements.LastSchool.Point1"),
+            t("Media.Registration.Requirements.LastSchool.Point2"),
           ],
           trigger: "2",
         },
         {
-          title: t("Engage.Registration.Requirements.Forms.Title"),
+          title: t("Media.Registration.Requirements.Forms.Title"),
           items: [
-            t("Engage.Registration.Requirements.Forms.Point1"),
-            t("Engage.Registration.Requirements.Forms.Point2"),
+            t("Media.Registration.Requirements.Forms.Point1"),
+            t("Media.Registration.Requirements.Forms.Point2"),
           ],
           trigger: "3",
         },
       ],
     },
     {
-      title: t("Engage.Registration.Deadlines.Title"),
+      title: t("Media.Registration.Deadlines.Title"),
       lists: [
         {
-          title: t("Engage.Registration.Deadlines.Sem1.Title"),
-          items: [t("Engage.Registration.Deadlines.Sem1.Description")],
+          title: t("Media.Registration.Deadlines.Sem1.Title"),
+          items: [t("Media.Registration.Deadlines.Sem1.Description")],
           trigger: "5",
         },
         {
-          title: t("Engage.Registration.Deadlines.Sem2.Title"),
-          items: [t("Engage.Registration.Deadlines.Sem2.Description")],
+          title: t("Media.Registration.Deadlines.Sem2.Title"),
+          items: [t("Media.Registration.Deadlines.Sem2.Description")],
           trigger: "6",
         },
         {
-          title: t("Engage.Registration.Deadlines.Sem3.Title"),
-          items: [t("Engage.Registration.Deadlines.Sem3.Description")],
+          title: t("Media.Registration.Deadlines.Sem3.Title"),
+          items: [t("Media.Registration.Deadlines.Sem3.Description")],
           trigger: "7",
         },
       ],

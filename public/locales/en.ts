@@ -303,8 +303,8 @@ const en = {
     },
   },
   SchoolName: "Madrasah Diniyah Takmiliyah Awaliyah Hidaayatul Mutaqien (MDTA-HM)",
-  Engage: {
-    Title: "Join MDTA-HM",
+  Media: {
+    Title: "Media",
     Fees: {
       Currency: "RM",
       Title: "Fees' Structure",
@@ -481,8 +481,8 @@ const en = {
         },
       },
     },
-    Registration: {
-      Title: "Registration & Fees",
+    Foto: {
+      Title: "Foto",
       RegisterNow: "Start The Process Now",
       Description:
         "As we aim to fit the abilities of Malaysia residents of Arab societies, we believe that we are offering the most reasonable charges among out competitors. Check out the prices below and how to actually join our lovely community.",
@@ -526,11 +526,11 @@ const en = {
         },
       },
     },
-    Jobs: {
+    Vidio: {
       NoJobs:
         "There are no available job vacancies at the time, you still may email us @",
       Email: "principal@aqsa.edu.my",
-      Title: "Job Opportunities",
+      Title: "Vidio",
       Academic: "Academic Opportunities",
       NonAcademic: "Non-Academic Opportunities",
       JobDescription: "Job Describtion",
@@ -568,81 +568,6 @@ const en = {
     },
   },
   Academics: {
-    StudyLevels: {
-      CheckOut: "Check Our Study Levels",
-      KG: {
-        Title: "Kindergarten",
-        Description:
-          "Pre-school curriculum, prepare kids aging 5 - 6 years old to primary level.",
-        Courses: {
-          Course1: "Educating Games",
-          Course2: "Arabic",
-          Course3: "English",
-          Course4: "Science",
-          Course5: "Math",
-        },
-      },
-      Levels1To2: {
-        Title: "Level 1 & 2",
-        Description:
-          "These levels of study are for kids aging 6 - 8 years old, constrain on listed courses.",
-        Courses: {
-          Course1: "Arts",
-          Course2: "Arabic",
-          Course3: "English",
-          Course4: "Science",
-          Course5: "Math",
-          Course6: "Sports",
-          Course7: "Islamic Culture",
-          Course8: "Quran Recitation",
-        },
-      },
-      Levels3To6: {
-        Title: "Level 3 - 6",
-        Description:
-          "These levels of study are for kids aging 8 - 12 years old, constrain on listed courses.",
-        Courses: {
-          Course1: "Computer Skills",
-          Course2: "Arabic",
-          Course3: "English",
-          Course4: "Malay",
-          Course5: "Science",
-          Course6: "Math",
-          Course7: "Sports",
-          Course8: "Arts",
-          Course9: "Islamic Culture",
-          Course10: "Quran Recitation",
-          Course11: "Islamic Fiqh",
-          Course12: "Quran Tajweed",
-        },
-      },
-      Levels7To12: {
-        Title: "Level 7 - 12",
-        Description:
-          "These levels of study are for kids aging 12 - 18 years old, constrain on listed courses.",
-        Courses: {
-          Course1: "Computer Skills",
-          Course2: "Arabic",
-          Course3: "English",
-          Course4: "Malay",
-          Course5: "Science",
-          Course6: "Math",
-          Course7: "Sports",
-          Course8: "Arts",
-          Course9: "Chemistry",
-          Course10: "Physics",
-          Course11: "Biology",
-          Course12: "Business",
-          Course13: "Quran Recitation",
-          Course14: "Islamic Fiqh",
-          Course15: "Quran Tajweed",
-          Course16: "Islamic Culture",
-        },
-      },
-      Title: "Study Levels",
-      Description:
-        "At MDTA-HM, we consider the school as a dynamic production team. Administrators, teachers, and students are all contributors to this team, and knowledge & ideas are the products. Since students are the ones who benefit most directly from the product, they should be most concerned that the product is of a high quality. But from our side, we offer all school levels from KG & 1st to 12th, with carefully designed fitting curriculum for each level to have the best components & inputs of the education process to lead to the desired outcomes.",
-    },
     Title: "Akademik",
     CoCurriculum: {
       CheckOut: "Check Our Co-Curriculum",
@@ -678,7 +603,136 @@ const en = {
     },
     Curriculum: {
       CheckOut: "Check Our Curriculum",
-      Title: "Curriculum",
+      Title: "Kurikulum",
+      Languages: {
+        Title: "Languages",
+        Arabic: {
+          Title: "Arabic",
+          Description:
+            "Arabic as the mother tongue of Arab students which should not be lost, and basic Islamic knowledge language for Muslims",
+        },
+        English: {
+          Title: "English",
+          Description:
+            "English as the modern sciences language, which enables students to keep update with the latest discoveries, theories and inventions",
+        },
+        Malay: {
+          Title: "Malay",
+          Description:
+            "The local language of Malays, which enhance students’ capability to interact with the locals of Malaysia",
+        },
+      },
+      Islamic: {
+        Title: "Islamic Studies",
+        Islamic: "Islamic",
+        Quran: "Quran Memorization & Recitation",
+        Fiqh: "Islamic Fiqh",
+        Culture: "Islamic Culture Education",
+        Description:
+          "The religious part of the curriculum is divided into three sections. As for the Islamic Fiqh, MDTA-HM depends on the heritage of Imam Shafi’I, and it is keen to teach the Quran and the rules of recitation and memorizing it. In the aspect of Islamic education, the curriculum contains all that develop good Islamic values and manners among students. Curriculum units vary to include Hadith, Prophetic Hadith, Sunnah, and others.",
+      },
+      Modern: {
+        Modern: "Modern",
+        Math: "Math",
+        Science: "Science",
+        ComputerScience: "Computer Science",
+        Sports: "Sports",
+        Arts: "Arts",
+        Title: "Modern Sciences",
+        Description:
+          "These basic materials aim to provide students with basic computers skills, math and the sciences (Chemistry, Physics and Biology), and trying to develop different skills in art and sports and to discover and develop talents. Math, science and English language courses follow the Cambridge curriculum.",
+      },
+      Description: "MDTA-HM curriculum contains courses from 3 different divisions",
+    },
+    Kosp: {
+      CheckOut: "Check Our Curriculum",
+      Title: "Kurikulum Operasional Standar Pendidikan (KOSP)",
+      Languages: {
+        Title: "Languages",
+        Arabic: {
+          Title: "Arabic",
+          Description:
+            "Arabic as the mother tongue of Arab students which should not be lost, and basic Islamic knowledge language for Muslims",
+        },
+        English: {
+          Title: "English",
+          Description:
+            "English as the modern sciences language, which enables students to keep update with the latest discoveries, theories and inventions",
+        },
+        Malay: {
+          Title: "Malay",
+          Description:
+            "The local language of Malays, which enhance students’ capability to interact with the locals of Malaysia",
+        },
+      },
+      Islamic: {
+        Title: "Islamic Studies",
+        Islamic: "Islamic",
+        Quran: "Quran Memorization & Recitation",
+        Fiqh: "Islamic Fiqh",
+        Culture: "Islamic Culture Education",
+        Description:
+          "The religious part of the curriculum is divided into three sections. As for the Islamic Fiqh, MDTA-HM depends on the heritage of Imam Shafi’I, and it is keen to teach the Quran and the rules of recitation and memorizing it. In the aspect of Islamic education, the curriculum contains all that develop good Islamic values and manners among students. Curriculum units vary to include Hadith, Prophetic Hadith, Sunnah, and others.",
+      },
+      Modern: {
+        Modern: "Modern",
+        Math: "Math",
+        Science: "Science",
+        ComputerScience: "Computer Science",
+        Sports: "Sports",
+        Arts: "Arts",
+        Title: "Modern Sciences",
+        Description:
+          "These basic materials aim to provide students with basic computers skills, math and the sciences (Chemistry, Physics and Biology), and trying to develop different skills in art and sports and to discover and develop talents. Math, science and English language courses follow the Cambridge curriculum.",
+      },
+      Description: "MDTA-HM curriculum contains courses from 3 different divisions",
+    },
+    Skkd: {
+      CheckOut: "Check Our Curriculum",
+      Title: "Standar Kompetensi | Kompetensi Dasar (SK-KD)",
+      Languages: {
+        Title: "Languages",
+        Arabic: {
+          Title: "Arabic",
+          Description:
+            "Arabic as the mother tongue of Arab students which should not be lost, and basic Islamic knowledge language for Muslims",
+        },
+        English: {
+          Title: "English",
+          Description:
+            "English as the modern sciences language, which enables students to keep update with the latest discoveries, theories and inventions",
+        },
+        Malay: {
+          Title: "Malay",
+          Description:
+            "The local language of Malays, which enhance students’ capability to interact with the locals of Malaysia",
+        },
+      },
+      Islamic: {
+        Title: "Islamic Studies",
+        Islamic: "Islamic",
+        Quran: "Quran Memorization & Recitation",
+        Fiqh: "Islamic Fiqh",
+        Culture: "Islamic Culture Education",
+        Description:
+          "The religious part of the curriculum is divided into three sections. As for the Islamic Fiqh, MDTA-HM depends on the heritage of Imam Shafi’I, and it is keen to teach the Quran and the rules of recitation and memorizing it. In the aspect of Islamic education, the curriculum contains all that develop good Islamic values and manners among students. Curriculum units vary to include Hadith, Prophetic Hadith, Sunnah, and others.",
+      },
+      Modern: {
+        Modern: "Modern",
+        Math: "Math",
+        Science: "Science",
+        ComputerScience: "Computer Science",
+        Sports: "Sports",
+        Arts: "Arts",
+        Title: "Modern Sciences",
+        Description:
+          "These basic materials aim to provide students with basic computers skills, math and the sciences (Chemistry, Physics and Biology), and trying to develop different skills in art and sports and to discover and develop talents. Math, science and English language courses follow the Cambridge curriculum.",
+      },
+      Description: "MDTA-HM curriculum contains courses from 3 different divisions",
+    },
+    Modul: {
+      CheckOut: "Check Our Curriculum",
+      Title: "Modul Ajar",
       Languages: {
         Title: "Languages",
         Arabic: {
@@ -722,6 +776,27 @@ const en = {
   },
   About: {
     About: "Tentang",
+    Santri: {
+      Title: "Data Santri",
+      Para1:
+        "A location of which only 5 km away from Petronas Twin Towers and hundreds of meters away from the key roads of Jalan Tun Razak, Jalan Kuching and DUKE lifted highway guarantee short and fast drive to reach the school. The exact address: No 5, Jalan Pahang Kecil, 53200 Kuala Lumpur, could also be found by ‘map-googling’ “Al-Aqsa Integrated School”. School bus service offered in the time-being covers the areas of (Batu Caves, Gombak, Medan Idaman, Setapak and Wangsa Maju).",
+      Para2:
+        "The school campus includes 3 buildings hosting the classrooms & labs beside the managment offices, visitors reception and services area. Additionally, there is an outdoor field for outdoor activities, with expanding plans in future.",
+    },
+    Teknisi: {
+      Title: "Data Staf IT",
+      Para1:
+        "A location of which only 5 km away from Petronas Twin Towers and hundreds of meters away from the key roads of Jalan Tun Razak, Jalan Kuching and DUKE lifted highway guarantee short and fast drive to reach the school. The exact address: No 5, Jalan Pahang Kecil, 53200 Kuala Lumpur, could also be found by ‘map-googling’ “Al-Aqsa Integrated School”. School bus service offered in the time-being covers the areas of (Batu Caves, Gombak, Medan Idaman, Setapak and Wangsa Maju).",
+      Para2:
+        "The school campus includes 3 buildings hosting the classrooms & labs beside the managment offices, visitors reception and services area. Additionally, there is an outdoor field for outdoor activities, with expanding plans in future.",
+    },
+    Guru: {
+      Title: "Data Staf Pengajar",
+      Para1:
+        "A location of which only 5 km away from Petronas Twin Towers and hundreds of meters away from the key roads of Jalan Tun Razak, Jalan Kuching and DUKE lifted highway guarantee short and fast drive to reach the school. The exact address: No 5, Jalan Pahang Kecil, 53200 Kuala Lumpur, could also be found by ‘map-googling’ “Al-Aqsa Integrated School”. School bus service offered in the time-being covers the areas of (Batu Caves, Gombak, Medan Idaman, Setapak and Wangsa Maju).",
+      Para2:
+        "The school campus includes 3 buildings hosting the classrooms & labs beside the managment offices, visitors reception and services area. Additionally, there is an outdoor field for outdoor activities, with expanding plans in future.",
+    },
     Facilities: {
       Title: "MDTA-HM Fasilitas",
       Para1:
@@ -806,40 +881,32 @@ const en = {
   Contact: {
     Contact: "Kontak",
     Title: "Kontak MDTA-HM",
-    FormTitle: "You Could Fill Up this Form",
-    FormButton: "Submit now",
-    MsgSent: "Your message has been sent. TQ :)",
-    Name: "Name",
-    Email: "Email",
-    PhoneNumber: "Phone Number",
-    Age: "How old is your little child?",
-    Msg: "How can we help you?",
     Contacts: {
-      Title: "OR Contact Us Through",
+      Title: "Hubungi Kami",
       Call: {
-        Title: "A Call",
-        Description1: "+603-40316469",
-        Description2: "+6011-2888-4817",
+        Title: "Telepon",
+        Description1: "+62 813-1397-7111",
+        Description2: "+62 838-7104-7769",
       },
       Email: {
         Title: "Email",
-        Description1: "Principal@aqsa.edu.my",
+        Description1: "mdtahidayatulmutaqqin@gmail.com",
       },
       Meeting: {
-        Title: "Meeting on-site",
-        Description1: "Monday - Friday",
-        Description2: "8am - 3pm",
+        Title: "Pertemuan di tempat",
+        Description1: "Senin - Sabtu",
+        Description2: "08:00 - 20:00",
         Description3:
-          "Al-Aqsa Integrated School @ No.5, Jalan Pahang Kecil, 53200 Kuala Lumpur",
+          "Dsn. Pangjeleran RT/RW 03/04 Ds. Cigintung Cisitu Sumedang",
       },
     },
   },
   Layout: {
     Footer: {
       CopyRights:
-        "All Rights Reserved for Al-Aqsa Integrated School Malaysia 2018 - ",
+        "Hak Cipta Dilindungi untuk Madrasah Diniyah Takmiliyah Awaliyah Hidaayatul Mutaqien (MDTA-HM) 2009 - ",
       By: "Compliment By",
-      Developer: "Semesteer",
+      Developer: "YSAS Foundation",
     },
   },
   Errors: {

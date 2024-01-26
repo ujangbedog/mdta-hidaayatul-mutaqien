@@ -16,12 +16,12 @@ export default function Corriculum() {
     <Stack>
       <PageHeader
         bg={departmentColors.academic}
-        title={t("Academics.Curriculum.Title")}
+        title={t("Academics.Modul.Title")}
       />
-      <CoursesSection />
+      {/* <CoursesSection />
       <LanguagesSection />
       <IslamicSection />
-      <ModernSection />
+      <ModernSection /> */}
     </Stack>
   );
 }

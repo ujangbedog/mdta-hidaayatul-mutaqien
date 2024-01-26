@@ -8,17 +8,20 @@ import { departmentColors } from "@/utils/constants";
 import { Stack } from "@mui/material";
 import { useRouter } from "next/router";
 
-export default function Academics() {
+export default function Corriculum() {
   const router = useRouter();
   const { t } = useTranslation(router);
 
   return (
     <Stack>
-      <PageHeader bg={departmentColors.academic} title={t("Academics.Title")} />
-      <CoursesSection />
+      <PageHeader
+        bg={departmentColors.academic}
+        title={t("Academics.Skkd.Title")}
+      />
+      {/* <CoursesSection />
       <LanguagesSection />
       <IslamicSection />
-      <ModernSection />
+      <ModernSection /> */}
     </Stack>
   );
 }

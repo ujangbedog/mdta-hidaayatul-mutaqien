@@ -154,7 +154,7 @@ const NewsSection = () => {
             </React.Fragment>
           ))}
 
-          <Square
+          {/* <Square
             bgcolor={theme.palette.blue.dark}
             radius={{
               mobile: ["5vw", "0.1.1.1"],
@@ -166,10 +166,10 @@ const NewsSection = () => {
             }}
           >
             <PageFlip />
-          </Square>
+          </Square> */}
         </Box>
 
-        <Box
+        {/* <Box
           sx={{
             width: "100%",
             display: "flex",
@@ -187,7 +187,7 @@ const NewsSection = () => {
               {t(latestNews[currentPhoto].title)}
             </Text>
           </Link>
-        </Box>
+        </Box> */}
       </Stack>
     </PageSection>
   );

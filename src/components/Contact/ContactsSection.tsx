@@ -90,7 +90,7 @@ const ContactsSection = () => {
           </Row>
 
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1062.784001361683!2d101.70160315987847!3d3.1811413772820534!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31cc496ec68f95b9%3A0x700d8de6e4eb4ef6!2sAl-Aqsa%20Integrated%20School!5e0!3m2!1sen!2sjo!4v1693287795800!5m2!1sen!2sjo"
+            src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d990.3179125575898!2d108.0515924!3d-6.8580095!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6f2df36570d489%3A0xefb41e8fccb4bef1!2sAjeungan%20M.%20Ita%20Z.M!5e0!3m2!1sen!2sid!4v1706286191264!5m2!1sen!2sid"
             width="100%"
             height="450"
             style={{ border: 0 }}

@@ -12,11 +12,11 @@ const Footer = () => {
     <FooterContainer>
       <Container sx={{ padding: 2 }}>
         <Typography textAlign="center" fontSize={{ xs: "2.5vw", md: "1vw" }}>
-          {t("Layout.Footer.CopyRights") + new Date().getFullYear()}
+          &copy; {t("Layout.Footer.CopyRights") + new Date().getFullYear()}
           {" | "}
           {t("Layout.Footer.By")}{" "}
           <a
-            href="https://www.semesteer.com/"
+            href="https://www.ysas.foundation/"
             target="_blank"
             rel="noreferrer"
             style={{ color: "inherit" }}

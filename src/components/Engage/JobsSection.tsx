@@ -39,16 +39,16 @@ const JobsSection = () => {
       </Text>
 
       <JobDetails
-        title={t("Engage.Jobs.JobDescription")}
+        title={t("Media.Jobs.JobDescription")}
         items={item.jobDescription}
       />
 
       <JobDetails
-        title={t("Engage.Jobs.Qualifications")}
+        title={t("Media.Jobs.Qualifications")}
         items={item.qualifications}
       />
 
-      <JobDetails title={t("Engage.Jobs.Documents")} items={item.documents} />
+      <JobDetails title={t("Media.Jobs.Documents")} items={item.documents} />
 
       <Link target="_blank" href="mailto:Principal@aqsa.edu.my">
         <Button
@@ -65,7 +65,7 @@ const JobsSection = () => {
             },
           }}
         >
-          {t("Engage.Jobs.Apply")}
+          {t("Media.Jobs.Apply")}
         </Button>
       </Link>
     </CardComp>
@@ -73,27 +73,27 @@ const JobsSection = () => {
 
   // const jobsList = [
   //   {
-  //     title: t("Engage.Jobs.Opportunity1.Title"),
+  //     title: t("Media.Jobs.Opportunity1.Title"),
   //     jobDescription: [
-  //       t("Engage.Jobs.Opportunity1.Description.Point1"),
-  //       t("Engage.Jobs.Opportunity1.Description.Point2"),
+  //       t("Media.Jobs.Opportunity1.Description.Point1"),
+  //       t("Media.Jobs.Opportunity1.Description.Point2"),
   //     ],
   //     qualifications: [
-  //       t("Engage.Jobs.Opportunity1.Qualifications.Point1"),
-  //       t("Engage.Jobs.Opportunity1.Qualifications.Point2"),
-  //       t("Engage.Jobs.Opportunity1.Qualifications.Point3"),
-  //       t("Engage.Jobs.Opportunity1.Qualifications.Point4"),
-  //       t("Engage.Jobs.Opportunity1.Qualifications.Point5"),
-  //       t("Engage.Jobs.Opportunity1.Qualifications.Point6"),
-  //       t("Engage.Jobs.Opportunity1.Qualifications.Point7"),
-  //       t("Engage.Jobs.Opportunity1.Qualifications.Point8"),
+  //       t("Media.Jobs.Opportunity1.Qualifications.Point1"),
+  //       t("Media.Jobs.Opportunity1.Qualifications.Point2"),
+  //       t("Media.Jobs.Opportunity1.Qualifications.Point3"),
+  //       t("Media.Jobs.Opportunity1.Qualifications.Point4"),
+  //       t("Media.Jobs.Opportunity1.Qualifications.Point5"),
+  //       t("Media.Jobs.Opportunity1.Qualifications.Point6"),
+  //       t("Media.Jobs.Opportunity1.Qualifications.Point7"),
+  //       t("Media.Jobs.Opportunity1.Qualifications.Point8"),
   //     ],
   //     documents: [
-  //       t("Engage.Jobs.Opportunity1.Documents.Point1"),
-  //       t("Engage.Jobs.Opportunity1.Documents.Point2"),
-  //       t("Engage.Jobs.Opportunity1.Documents.Point3"),
-  //       t("Engage.Jobs.Opportunity1.Documents.Point4"),
-  //       t("Engage.Jobs.Opportunity1.Documents.Point5"),
+  //       t("Media.Jobs.Opportunity1.Documents.Point1"),
+  //       t("Media.Jobs.Opportunity1.Documents.Point2"),
+  //       t("Media.Jobs.Opportunity1.Documents.Point3"),
+  //       t("Media.Jobs.Opportunity1.Documents.Point4"),
+  //       t("Media.Jobs.Opportunity1.Documents.Point5"),
   //     ],
   //   },
   // ];
@@ -102,11 +102,11 @@ const JobsSection = () => {
     <PageSection bg="">
         <PageSectionColumn md={12}>
           <Text center variant="cardtitle">
-            {t("Engage.Jobs.NoJobs")}
+            {t("Media.Jobs.NoJobs")}
           </Text>
 
           <Text center variant="subtitle">
-            {t("Engage.Jobs.Email")}
+            {t("Media.Jobs.Email")}
           </Text>
         </PageSectionColumn>
     </PageSection>

@@ -16,7 +16,6 @@ import IconButton from "@mui/material/IconButton";
 import Menu from "@mui/material/Menu";
 import MenuItem from "@mui/material/MenuItem";
 import Toolbar from "@mui/material/Toolbar";
-import Typography from "@mui/material/Typography";
 import Link from "next/link";
 import { useRouter } from "next/router";
 import * as React from "react";
@@ -37,35 +36,37 @@ function ResponsiveAppBar() {
     { title: t("Home"), link: "/" },
     {
       title: t("About.About"),
-      link: "/about",
+      link: "/tentang",
       links: [
         { title: t("About.WhyAIS.WhyAIS"), link: "/why-ais" },
         { title: t("About.Facilities.Title"), link: "/facilities" },
+        { title: t("About.Guru.Title"), link: "/staf-pengajar" },
+        { title: t("About.Teknisi.Title"), link: "/staf-it" },
+        { title: t("About.Santri.Title"), link: "/santri" },
         // { title: "AIS Team", link: "/ais-team" },
       ],
     },
     {
       title: t("Academics.Title"),
-      link: "/academics",
+      link: "/akademik",
       links: [
-        { title: t("Academics.StudyLevels.Title"), link: "/study-levels" },
-        { title: t("Academics.Curriculum.Title"), link: "/curriculum" },
-        { title: t("Academics.CoCurriculum.Title"), link: "/co-curriculum" },
+        { title: t("Academics.Curriculum.Title"), link: "/kurikulum" },
+        // { title: t("Academics.StudyLevels.KG.Title"), link: "/study-level" },
+        { title: t("Academics.Kosp.Title"), link: "/kosp" },
+        { title: t("Academics.Skkd.Title"), link: "/skkd" },
+        { title: t("Academics.Modul.Title"), link: "/modul" },
       ],
     },
     {
-      title: t("Engage.Title"),
-      link: "/engage",
+      title: t("Media.Title"),
+      link: "/media",
       links: [
-        {
-          title: t("Engage.Registration.Title"),
-          link: "/registration-fees",
-        },
-        { title: t("Engage.Jobs.Title"), link: "/job-opportunities" },
+        { title: t("Media.Foto.Title"), link: "/foto" },
+        { title: t("Media.Vidio.Title"), link: "/vidio" },
       ],
     },
-    { title: t("News.News"), link: "/news" },
-    { title: t("Contact.Contact"), link: "/contact" },
+    { title: t("News.News"), link: "/informasi" },
+    { title: t("Contact.Contact"), link: "/kontak" },
   ];
 
   const handleOpenNavMenu = (event: React.MouseEvent<HTMLElement>) => {

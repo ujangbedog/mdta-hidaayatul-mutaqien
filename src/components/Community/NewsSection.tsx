@@ -37,7 +37,7 @@ const NewsSection = () => {
 
   return (
     <PageSection>
-      {latestNews.map((item, i) => (
+      {/* {latestNews.map((item, i) => (
         <PageSectionColumn md={6} key={i}>
           <Avatar
             variant="square"
@@ -67,7 +67,8 @@ const NewsSection = () => {
             </Text>
           </Link>
         </PageSectionColumn>
-      ))}
+      ))} */}
+      
     </PageSection>
   );
 };

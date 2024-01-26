@@ -14,42 +14,42 @@ const DiscountsSection = () => {
 
   const discountSection = [
     {
-      title: t("Engage.Discounts.Parent.Title"),
+      title: t("Media.Discounts.Parent.Title"),
       items: [
         {
-          title: t("Engage.Discounts.Parent.Details.Title"),
-          price: t("Engage.Discounts.Parent.Details.Price"),
-          description: t("Engage.Discounts.Parent.Details.Description"),
+          title: t("Media.Discounts.Parent.Details.Title"),
+          price: t("Media.Discounts.Parent.Details.Price"),
+          description: t("Media.Discounts.Parent.Details.Description"),
         },
       ],
     },
     {
-      title: t("Engage.Discounts.Siblings.Title"),
+      title: t("Media.Discounts.Siblings.Title"),
       items: [
         {
-          title: t("Engage.Discounts.Siblings.Sibling1.Title"),
-          price: t("Engage.Discounts.Siblings.Sibling1.Price"),
-          description: t("Engage.Discounts.Siblings.Sibling1.Description"),
+          title: t("Media.Discounts.Siblings.Sibling1.Title"),
+          price: t("Media.Discounts.Siblings.Sibling1.Price"),
+          description: t("Media.Discounts.Siblings.Sibling1.Description"),
         },
         {
-          title: t("Engage.Discounts.Siblings.Sibling2.Title"),
-          price: t("Engage.Discounts.Siblings.Sibling2.Price"),
-          description: t("Engage.Discounts.Siblings.Sibling2.Description"),
+          title: t("Media.Discounts.Siblings.Sibling2.Title"),
+          price: t("Media.Discounts.Siblings.Sibling2.Price"),
+          description: t("Media.Discounts.Siblings.Sibling2.Description"),
         },
         {
-          title: t("Engage.Discounts.Siblings.Sibling3.Title"),
-          price: t("Engage.Discounts.Siblings.Sibling3.Price"),
-          description: t("Engage.Discounts.Siblings.Sibling3.Description"),
+          title: t("Media.Discounts.Siblings.Sibling3.Title"),
+          price: t("Media.Discounts.Siblings.Sibling3.Price"),
+          description: t("Media.Discounts.Siblings.Sibling3.Description"),
         },
       ],
     },
     {
-      title: t("Engage.Discounts.AdvancePayment.Title"),
+      title: t("Media.Discounts.AdvancePayment.Title"),
       items: [
         {
-          title: t("Engage.Discounts.AdvancePayment.Details.Title"),
-          price: t("Engage.Discounts.AdvancePayment.Details.Price"),
-          description: t("Engage.Discounts.AdvancePayment.Details.Description"),
+          title: t("Media.Discounts.AdvancePayment.Details.Title"),
+          price: t("Media.Discounts.AdvancePayment.Details.Price"),
+          description: t("Media.Discounts.AdvancePayment.Details.Description"),
         },
       ],
     },
@@ -59,7 +59,7 @@ const DiscountsSection = () => {
     <PageSection>
       <PageSectionColumn md={6}>
         <Text color={theme.palette.orange.main} variant="title" center>
-          {t("Engage.Discounts.Title")}
+          {t("Media.Discounts.Title")}
         </Text>
       </PageSectionColumn>
 

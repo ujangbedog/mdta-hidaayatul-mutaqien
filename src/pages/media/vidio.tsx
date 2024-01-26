@@ -11,8 +11,8 @@ export default function JobOpportunities() {
 
   return (
     <Stack>
-      <PageHeader bg={departmentColors.engage} title={t("Engage.Jobs.Title")} />
-      <JobsSection />
+      <PageHeader bg={departmentColors.engage} title={t("Media.Vidio.Title")} />
+      {/* <JobsSection /> */}
     </Stack>
   );
 }

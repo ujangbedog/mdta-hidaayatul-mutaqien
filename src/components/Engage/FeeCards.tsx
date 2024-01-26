@@ -73,8 +73,8 @@ const FeeCards = ({ boxes, bg, cardBg, currency }: FeeCardsProps) => {
                       >
                         {currency
                           ? router.locale == "ar"
-                            ? item.price + " " + t("Engage.Fees.Currency")
-                            : t("Engage.Fees.Currency") + " " + item.price
+                            ? item.price + " " + t("Media.Fees.Currency")
+                            : t("Media.Fees.Currency") + " " + item.price
                           : item.price}
                       </Text>
                     </Grid>
