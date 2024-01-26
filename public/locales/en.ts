@@ -602,7 +602,7 @@ const en = {
         "Gaining knowledge is not the solely part of education process we care for implementing. Co-Curriculum programs are designed to shape students’ skills, thrill and psycho-social satisfaction, revive the spirit of competition, achieve behavioral development, develop the collective side, cooperate and team spirit in work and develop ties of friendship among students. Some of these activities are sorted in independent clubs within the school.",
     },
     Curriculum: {
-      CheckOut: "Check Our Curriculum",
+      CheckOut: "Lihat Kurikulum",
       Title: "Kurikulum",
       Languages: {
         Title: "Languages",
@@ -645,7 +645,7 @@ const en = {
       Description: "MDTA-HM curriculum contains courses from 3 different divisions",
     },
     Kosp: {
-      CheckOut: "Check Our Curriculum",
+      CheckOut: "Lihat Kurikulum Operasional Standar Pendidikan (KOSP)",
       Title: "Kurikulum Operasional Standar Pendidikan (KOSP)",
       Languages: {
         Title: "Languages",
@@ -688,7 +688,7 @@ const en = {
       Description: "MDTA-HM curriculum contains courses from 3 different divisions",
     },
     Skkd: {
-      CheckOut: "Check Our Curriculum",
+      CheckOut: "Lihat Standar Kompetensi | Kompetensi Dasar (SK-KD)",
       Title: "Standar Kompetensi | Kompetensi Dasar (SK-KD)",
       Languages: {
         Title: "Languages",
@@ -731,7 +731,7 @@ const en = {
       Description: "MDTA-HM curriculum contains courses from 3 different divisions",
     },
     Modul: {
-      CheckOut: "Check Our Curriculum",
+      CheckOut: "Lihat Modul Ajar",
       Title: "Modul Ajar",
       Languages: {
         Title: "Languages",
@@ -848,7 +848,7 @@ const en = {
     },
     Title: "Tentang MDTA-HM",
     Description:
-      "Al-Aqsa Integrated School Malaysia (MDTA-HM) is an international school founded in Kuala Lumpur, Malaysia and launched its first semester on October 2018. The main purpose of founding MDTA-HM was to offer education to families around Klang Valley a satisfying education level and good environment.",
+      "Madrasah Diniyah Takmiliyah Awaliyah (MDTA) Hidaayatul Mutaqien adalah sebuah Madrasah agama yang berdiri dibawah naungan Yayasan Sanusiah Al-Mansyuriah Sumedang, Pimpinan Kasepuhan Bpk. K.H. Ita Zaenal Mutaqien yang beralamat di Desa Cigintung, Kecamatan Cisitu, Kabupaten Sumedang. Dewasa ini, Madrasah yang fokus dikembangkan adalah Madrasah Diniyah Awaliyah (MDTA) berdiri pada tahun 2009  dan mendapatkan izin dari kementrian Agama kabupaten Sumedang pada tahun 2010, disaat pemerintah kabupaten Sumedang mengatur tentang program wajib diniyah dengan mengeluarkan Perda No 02 tahun 2009.",
     WhyAIS: {
       WhyAIS: "Mengapa MDTA-HM?",
       Title: "MDTA-HM Competitive Advantages",

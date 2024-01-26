@@ -119,7 +119,7 @@ const NewsSection = () => {
   ];
 
   return (
-    <PageSection>
+    <PageSection py={20} bgcolor={theme.palette.orange.main}>
       <Stack justifyContent="center">
         <Box sx={NewsGridStyles}>
           <Square

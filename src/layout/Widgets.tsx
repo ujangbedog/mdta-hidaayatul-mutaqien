@@ -154,22 +154,21 @@ const Widgets = () => {
                     alt="logo 2"
                   />
                 </Column>
-
-                {socialMediaLinks.map(({ icon, link }, i) => (
-                  <Column xs={4} sm={2} key={i}>
-                    <Button
-                      href={link}
-                      target="_blank"
-                      variant="text"
-                      sx={{ padding: 0 }}
-                      fullWidth
-                    >
-                      <Text color={theme.palette.basic.light} variant="sm" center>
-                        {icon}
-                      </Text>
-                    </Button>
-                  </Column>
-                ))}
+                  {socialMediaLinks.map(({ icon, link }, i) => (
+                    <Column xs={4} sm={2} key={i}>
+                      <Button
+                        href={link}
+                        target="_blank"
+                        variant="text"
+                        sx={{ padding: 0 }}
+                        fullWidth
+                      >
+                        <Text color={theme.palette.basic.light} variant="sm" center>
+                          {icon}
+                        </Text>
+                      </Button>
+                    </Column>
+                  ))}
               </Row>
             </Square>
           </Stack>

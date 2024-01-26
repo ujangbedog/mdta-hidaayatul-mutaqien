@@ -67,7 +67,7 @@ export default function AISTeam() {
     <Stack>
       <PageHeader bg={departmentColors.about} title={t("About.Teknisi.Title")} />
       <PageSection>
-        <Row>
+        {/* <Row>
           {team.map(({ name, img, position }, i) => (
             <Column md={2} key={i}>
               <Card>
@@ -81,7 +81,7 @@ export default function AISTeam() {
               </Card>
             </Column>
           ))}
-        </Row>
+        </Row> */}
       </PageSection>
     </Stack>
   );

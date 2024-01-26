@@ -7,23 +7,30 @@ import PageSection from "../Common/PageSection";
 import Row from "../Common/Row";
 import Text from "../Common/Text";
 import { Button } from "@mui/material";
+import Link from "next/link";
 
 const AcademicSection = () => {
   const router = useRouter();
   const { t } = useTranslation(router);
 
-  const buttons = [
-    {
-      title: t("Academics.StudyLevels.CheckOut"),
-      link: "/academics/study-levels",
-    },
+  const buttons1 = [
     {
       title: t("Academics.Curriculum.CheckOut"),
-      link: "/academics/curriculum",
+      link: "/akademik/kurikulum",
     },
     {
-      title: t("Academics.CoCurriculum.CheckOut"),
-      link: "/academics/co-curriculum",
+      title: t("Academics.Kosp.CheckOut"),
+      link: "/akademik/kosp",
+    },
+  ];
+  const buttons2 = [
+    {
+      title: t("Academics.Skkd.CheckOut"),
+      link: "/akademik/skkd",
+    },
+    {
+      title: t("Academics.Modul.CheckOut"),
+      link: "/akademik/modul",
     },
   ];
 
@@ -42,18 +49,48 @@ const AcademicSection = () => {
           </Text>
         </Column>
 
-        {buttons.map(({ title, link }, i) => (
-          <Column lg={4} key={i}>
-            <Button
-              style={{ backgroundColor: theme.palette.blue.dark }}
-              variant="contained"
-              size="large"
-              sx={{ padding: 3, color: "white" }}
-              href={link}
-              fullWidth
-            >
-              {title}
-            </Button>
+        {buttons1.map(({ title, link }, i) => (
+          <Column lg={6} key={i}>
+            <Link href={link} passHref>
+              <button
+                style={{
+                  backgroundColor: theme.palette.blue.dark,
+                  padding: "12px 24px",
+                  color: "white",
+                  border: "none",
+                  borderRadius: "4px",
+                  cursor: "pointer",
+                  width: "100%",
+                  height: "60px",
+                  alignItems: "center",
+                  justifyContent: "center"
+                }}
+              >
+                <p style={{ fontSize: '15pt', margin: 0 }}>{title}</p>
+              </button>
+            </Link>
+          </Column>
+        ))}
+        {buttons2.map(({ title, link }, i) => (
+          <Column lg={6} key={i}>
+            <Link href={link} passHref>
+            <button
+                style={{
+                  backgroundColor: theme.palette.blue.dark,
+                  padding: "12px 24px",
+                  color: "white",
+                  border: "none",
+                  borderRadius: "4px",
+                  cursor: "pointer",
+                  width: "100%",
+                  height: "60px",
+                  alignItems: "center",
+                  justifyContent: "center"
+                }}
+              >
+                <p style={{ fontSize: '15pt', margin: 0 }}>{title}</p>
+              </button>
+            </Link>
           </Column>
         ))}
       </Row>

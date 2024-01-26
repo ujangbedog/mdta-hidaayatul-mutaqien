@@ -15,7 +15,7 @@ export default function FacilitiesPage() {
         bg={departmentColors.about}
         title={t("About.Facilities.Title")}
       />
-      <Facilities />
+      {/* <Facilities /> */}
     </Stack>
   );
 }

@@ -11,7 +11,6 @@ export default function LandingPage() {
       <WelcomeSection />
       <WhyAISSection />
       <AcademicSection />
-      <RegisterSection />
       <NewsSection />
     </Stack>
   );
