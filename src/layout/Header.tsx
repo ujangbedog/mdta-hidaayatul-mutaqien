@@ -16,6 +16,7 @@ import IconButton from "@mui/material/IconButton";
 import Menu from "@mui/material/Menu";
 import MenuItem from "@mui/material/MenuItem";
 import Toolbar from "@mui/material/Toolbar";
+import Typography from "@mui/material/Typography";
 import Link from "next/link";
 import { useRouter } from "next/router";
 import * as React from "react";
@@ -32,13 +33,7 @@ function ResponsiveAppBar() {
   );
   const [submenu, setSubmenu] = React.useState<string>("");
 
-  interface MenuItem {
-    title: string;
-    link: string;
-    links?: MenuItem[];
-  }
-
-  const links: MenuItem[] = [
+  const links = [
     { title: t("Home"), link: "/" },
     {
       title: t("About.About"),
@@ -130,7 +125,7 @@ function ResponsiveAppBar() {
                 component="nav"
                 aria-labelledby="nested-list-subheader"
               >
-                {Array.isArray(links) && links.map(({ title, link, links }, i) =>
+                {links.map(({ title, link, links }, i) =>
                   links ? (
                     <React.Fragment key={i}>
                       <ListItemButton
@@ -154,7 +149,7 @@ function ResponsiveAppBar() {
                         unmountOnExit
                       >
                         <List component="div" disablePadding>
-                          {(links.find((item) => item.link === link)?.links || []).map(
+                          {links.map(
                             ({ link: sublink, title: subtitle }, y) => (
                               <Link
                                 href={link + "/" + sublink}
@@ -178,6 +173,7 @@ function ResponsiveAppBar() {
                           )}
                         </List>
                       </Collapse>
+
                       <Divider />
                     </React.Fragment>
                   ) : (
@@ -197,7 +193,7 @@ function ResponsiveAppBar() {
                           <ListItemText primary={title} />
                         </ListItemButton>
                       </Link>
-                      {i !== (Array.isArray(links) ? links == length : 0) && <Divider />}
+                      {/* {i !== links?.length && <Divider />} */}
                     </React.Fragment>
                   )
                 )}
