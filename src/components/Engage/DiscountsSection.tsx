@@ -3,9 +3,9 @@ import theme from "@/styles/theme";
 import { Avatar } from "@mui/material";
 import { useRouter } from "next/router";
 
-import PageSection from "../Common/PageSection";
-import PageSectionColumn from "../Common/PageSectionColumn";
-import Text from "../Common/Text";
+import PageSection from "../common/PageSection";
+import PageSectionColumn from "../common/PageSectionColumn";
+import Text from "../common/Text";
 import FeeCards from "./FeeCards";
 
 const DiscountsSection = () => {

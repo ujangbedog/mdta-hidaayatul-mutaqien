@@ -3,11 +3,11 @@ import theme from "@/styles/theme";
 import { Box, Stack, Typography } from "@mui/material";
 import { useRouter } from "next/router";
 
-import PageSection from "../Common/PageSection";
-import PageSectionColumn from "../Common/PageSectionColumn";
-import Square from "../Common/Square";
+import PageSection from "../common/PageSection";
+import PageSectionColumn from "../common/PageSectionColumn";
+import Square from "../common/Square";
 import { LanguagesGrid, TitleStyles } from "../../components/Curriculum/styles";
-import Text from "../Common/Text";
+import Text from "../common/Text";
 
 const LanguagesSection = () => {
   const router = useRouter();

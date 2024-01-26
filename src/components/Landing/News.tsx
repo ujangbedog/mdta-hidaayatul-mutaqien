@@ -1,6 +1,6 @@
-import PageSection from "@/src/components/Common/PageSection";
-import Square from "@/src/components/Common/Square";
-import Text from "@/src/components/Common/Text";
+import PageSection from "@/src/components/common/PageSection";
+import Square from "@/src/components/common/Square";
+import Text from "@/src/components/common/Text";
 import { latestNews } from "@/components/Community/NewsSection";
 import useTranslation from "@/hooks/useTranslation";
 import theme from "@/styles/theme";

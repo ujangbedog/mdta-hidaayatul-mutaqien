@@ -1,4 +1,4 @@
-import PageHeader from "@/src/components/Common/PageHeader";
+import PageHeader from "@/src/components/common/PageHeader";
 import ContactForm from "@/components/Contact/ContactForm";
 import ContactsSection from "@/components/Contact/ContactsSection";
 import useTranslation from "@/hooks/useTranslation";

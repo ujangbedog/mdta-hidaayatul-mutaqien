@@ -5,7 +5,7 @@ const en = {
     Point1: {
       Title: "About This Privacy Policy and PDPA 2010",
       Start:
-        "Al-Aqsa Integrated School Malaysia (AIS) (“the School”) is committed to comply with the Malaysian Personal Data Protection Act (PDPA) 2010 in protecting our students’ and parents’ personal information that has been processed by the School. This Privacy Policy informs you about the School’s policy and practices on data privacy matters, before you provide your personal data to the School. The word “You” or any derivation thereof, as used herein refers to owner of the personal data, which include both the student and the parent/legal guardian of the child.",
+        "Al-Aqsa Integrated School Malaysia (MDTA-HM) (“the School”) is committed to comply with the Malaysian Personal Data Protection Act (PDPA) 2010 in protecting our students’ and parents’ personal information that has been processed by the School. This Privacy Policy informs you about the School’s policy and practices on data privacy matters, before you provide your personal data to the School. The word “You” or any derivation thereof, as used herein refers to owner of the personal data, which include both the student and the parent/legal guardian of the child.",
     },
     Point2: {
       Title: "Source Of Your Personal Data",
@@ -104,7 +104,7 @@ const en = {
       PointA: "(603) 1234 5678 (telephone)",
       PointB: "principal@aqsa.edu.my (email)",
       PointC:
-        "AIS reserves the right to charge you an administrative fee for processing any data access request.",
+        "MDTA-HM reserves the right to charge you an administrative fee for processing any data access request.",
       End: "Although, we only process your personal data for purposes as stated above, in the event that your personal data is being processed for other purposes (with your consent), you have the right to request us to stop such processing. You may exercise this right by contacting the School through aforementioned. However, if you choose not to provide and/or fail to supply us with such personal data (and/or decide not to give us consent to process your personal data, including explicit consent for sensitive personal data), we will not be able to perform the contract of enrollment or process your application for enrollment with us. Accordingly, if you decide not to provide the mandatory information to us, it may necessarily mean that the Contract of Enrollment may have to be terminated or that an offer of a place of enrollment will not be made. Any request to exercise your rights shall be administered as per the Act. Please be informed that pursuant to the Act, your request may be rejected in certain circumstances.",
     },
     Point9: {
@@ -118,31 +118,31 @@ const en = {
     Point1: {
       Title: "Use of our websites",
       Start:
-        "The use of AIS website is subject to the terms and conditions set forth below. Please read the following Website Terms and Conditions, which relate to information regarding general use of our websites. By using our websites, you are agreeing to these legal Terms and Conditions whether as a guest or registered user. By using our sites you are indicating you accept these terms of use and that you agree to abide by them. From time to time we may change these Terms and Conditions, and will post revisions on this website. We recommend that you read these Terms and Conditions prior to using our sites and thereafter regularly review any changes. This accessibility statement applies only to the AIS website @ www.aqsa.edu.my and all subdomains. It does not apply to any other site, including any site that is linked from our pages.",
+        "The use of MDTA-HM website is subject to the terms and conditions set forth below. Please read the following Website Terms and Conditions, which relate to information regarding general use of our websites. By using our websites, you are agreeing to these legal Terms and Conditions whether as a guest or registered user. By using our sites you are indicating you accept these terms of use and that you agree to abide by them. From time to time we may change these Terms and Conditions, and will post revisions on this website. We recommend that you read these Terms and Conditions prior to using our sites and thereafter regularly review any changes. This accessibility statement applies only to the MDTA-HM website @ www.aqsa.edu.my and all subdomains. It does not apply to any other site, including any site that is linked from our pages.",
     },
     Point2: {
       Title: "Intellectual Property",
       PointA:
-        "All trade names, trademarks and other logos on AIS website are proprietary to their respective owners and are protected by applicable trademark and copyright laws. The content, layout, design, data, databases and graphics on this website are protected by Malaysian and other international intellectual property laws and are owned by Al-Aqsa Integrated School or its licensors. Unless expressly permitted in writing in a license agreement, no part of the website may be reproduced, stored in any medium, including but not limited to a retrieval system or transmitted, in any form or by any means (electronic, mechanical, photocopying, recording, broadcasting) nor, shown in public other than websites within Al-Aqsa Integrated School.",
+        "All trade names, trademarks and other logos on MDTA-HM website are proprietary to their respective owners and are protected by applicable trademark and copyright laws. The content, layout, design, data, databases and graphics on this website are protected by Malaysian and other international intellectual property laws and are owned by Al-Aqsa Integrated School or its licensors. Unless expressly permitted in writing in a license agreement, no part of the website may be reproduced, stored in any medium, including but not limited to a retrieval system or transmitted, in any form or by any means (electronic, mechanical, photocopying, recording, broadcasting) nor, shown in public other than websites within Al-Aqsa Integrated School.",
       PointB:
-        "AIS Website Content includes but is not limited to various write-ups and reports, links to other websites, opinions, text, data, images, photos, graphics, graphs, charts, animations, multimedia and interactive displays on the website.",
+        "MDTA-HM Website Content includes but is not limited to various write-ups and reports, links to other websites, opinions, text, data, images, photos, graphics, graphs, charts, animations, multimedia and interactive displays on the website.",
       PointC:
-        "None of AIS Website Content may be copied or otherwise reproduced, repackaged, further transmitted, transferred, disseminated, redistributed or resold, or stored for subsequent use for any such purpose, in whole or in part, in any form or manner or by any means whatsoever, by any person without AIS prior written consent.",
+        "None of MDTA-HM Website Content may be copied or otherwise reproduced, repackaged, further transmitted, transferred, disseminated, redistributed or resold, or stored for subsequent use for any such purpose, in whole or in part, in any form or manner or by any means whatsoever, by any person without MDTA-HM prior written consent.",
       PointD:
-        "Nothing contained on AIS Website should be construed as granting any license or right to use any of the names, trademarks and other logos displayed on the Website without the express written permission of AIS.",
+        "Nothing contained on MDTA-HM Website should be construed as granting any license or right to use any of the names, trademarks and other logos displayed on the Website without the express written permission of MDTA-HM.",
       PointE:
         "Any material you upload to our sites will be considered non-confidential and non-proprietary (unless otherwise stated on the site or within our privacy policy) and for such content you grant us a transferable, royalty free, worldwide, irrevocable license to use, copy, distribute, edit, amend, disclose, sub license to third parties and create derivative works in whole or party of any such material for any purpose. We may remove, edit or amend any such material at any time without notice to you. To the extent moral rights attach to any material to the fullest extent permitted by law these are waived in our favour. We also have the right to disclose your identity to any third party who is claiming that any material posted or uploaded by you to any of our sites constitutes a violation of their rights, including without limitation, their intellectual property rights, reputational rights or of their right to privacy.",
     },
     Point3: {
       Title: "Disclaimer",
       PointA:
-        "The website may contain forward-looking statements which are based on AIS’s current expectations, forecasts and assumptions based on management’s good faith expectations and belief concerning future developments. In some cases forward-looking statements may be identified by forward-looking words like “would”, “intend”, “hope”, “will”, “may”, “should”, “expect”, “anticipate”, “believe”, “estimate”, “predict”, “continue”, or similar words. Forward-looking statements involve risks and uncertainties which could cause actual outcomes and results to differ materially from AIS’s expectations, forecasts and assumptions. We caution that these forward-looking statements are not statements of historical facts and are subject to risks and uncertainties not in the control of AIS, including, without limitation, economic, competitive, governmental, regulatory, technological, virus and other factors that may affect AIS’s operations. Unless otherwise required by law, AIS disclaims any intention or obligation to update or revise any forward-looking statements, whether as a result of new information, future events, or otherwise. Although we believe the expectations reflected in forward-looking statements are reasonable we cannot guarantee future results, levels of activity, performance or achievements.",
+        "The website may contain forward-looking statements which are based on MDTA-HM’s current expectations, forecasts and assumptions based on management’s good faith expectations and belief concerning future developments. In some cases forward-looking statements may be identified by forward-looking words like “would”, “intend”, “hope”, “will”, “may”, “should”, “expect”, “anticipate”, “believe”, “estimate”, “predict”, “continue”, or similar words. Forward-looking statements involve risks and uncertainties which could cause actual outcomes and results to differ materially from MDTA-HM’s expectations, forecasts and assumptions. We caution that these forward-looking statements are not statements of historical facts and are subject to risks and uncertainties not in the control of MDTA-HM, including, without limitation, economic, competitive, governmental, regulatory, technological, virus and other factors that may affect MDTA-HM’s operations. Unless otherwise required by law, MDTA-HM disclaims any intention or obligation to update or revise any forward-looking statements, whether as a result of new information, future events, or otherwise. Although we believe the expectations reflected in forward-looking statements are reasonable we cannot guarantee future results, levels of activity, performance or achievements.",
       PointB:
-        "AIS Website Content to the fullest extent permitted by law, is provided on an “as is” basis, without any guarantees, conditions or warranties as to accuracy. Due to the number of sources from which AIS Website Content is obtained, and the potential hazards of electronic distribution, there may be delays, omissions or inaccuracies in the AIS Website Content. AIS is not liable for any loss or damage to any person upon reliance to the contents on the website.",
+        "MDTA-HM Website Content to the fullest extent permitted by law, is provided on an “as is” basis, without any guarantees, conditions or warranties as to accuracy. Due to the number of sources from which MDTA-HM Website Content is obtained, and the potential hazards of electronic distribution, there may be delays, omissions or inaccuracies in the MDTA-HM Website Content. MDTA-HM is not liable for any loss or damage to any person upon reliance to the contents on the website.",
       PointC:
-        "AIS does not make any guarantee or warranty as to the accuracy or completeness of or results to be obtained from accessing and using AIS Website Content or that this web site or its server are free of computer viruses or other harmful items, nor any material that can be accessed through AIS website.",
+        "MDTA-HM does not make any guarantee or warranty as to the accuracy or completeness of or results to be obtained from accessing and using MDTA-HM Website Content or that this web site or its server are free of computer viruses or other harmful items, nor any material that can be accessed through MDTA-HM website.",
       PointD:
-        "AIS and on behalf of AIS directors, officers and employees disclaim any and all warranties, and exclude liability for any losses and expenses of whatever nature and howsoever arising, including without limitation to lost time, lost money, lost profits or good will, claims of third parties or other losses of any kind or character (including, without limitation, direct, indirect, incidental, consequential, special, exemplary or lost profits) resulting from the use or inability to use the web site or the material, whether based on warranty, contract, tort, or any other legal theory, and whether or not AIS is advised of the possibility of such damages.",
+        "MDTA-HM and on behalf of MDTA-HM directors, officers and employees disclaim any and all warranties, and exclude liability for any losses and expenses of whatever nature and howsoever arising, including without limitation to lost time, lost money, lost profits or good will, claims of third parties or other losses of any kind or character (including, without limitation, direct, indirect, incidental, consequential, special, exemplary or lost profits) resulting from the use or inability to use the web site or the material, whether based on warranty, contract, tort, or any other legal theory, and whether or not MDTA-HM is advised of the possibility of such damages.",
     },
     Point4: {
       Title: "Virus protection",
@@ -152,7 +152,7 @@ const en = {
     Point5: {
       Title: "Photography",
       Start:
-        "Photographs, videos and such may be taken at our events/courses for use in future AIS material. If there is an image or video of you or your child used anywhere on our website that you wish us to consider removing, please contact us at principal@aqsa.edu.my.",
+        "Photographs, videos and such may be taken at our events/courses for use in future MDTA-HM material. If there is an image or video of you or your child used anywhere on our website that you wish us to consider removing, please contact us at principal@aqsa.edu.my.",
     },
     Point6: {
       Title: "Prohibited Conducts",
@@ -167,7 +167,7 @@ const en = {
       PointE:
         "You must not use our website to copy, publish or send material which is illegal or unlawful, or material which could give rise to legal action under Malaysian and other applicable law. All material you copy, publish or send via our website must not be defamatory, obscene, indecent, hateful, discriminatory or inflammatory; such material must not infringe any person’s intellectual property rights or rights of confidence, impinge upon any person’s privacy, or constitute incitement to commit a crime; further, material must not be misleading, deceptive, sexually explicit, threatening, abusive, harassing or menacing.",
       PointF:
-        "You agree that you shall not directly or indirectly attempt or actually disrupt, impair or interfere with, alter or modify the AIS Website Content;",
+        "You agree that you shall not directly or indirectly attempt or actually disrupt, impair or interfere with, alter or modify the MDTA-HM Website Content;",
       PointG:
         "We reserve the right to edit or remove any material posted upon our website.",
       PointH:
@@ -182,7 +182,7 @@ const en = {
   WebsitePrivacy: {
     Title: "Website Privacy",
     Intro:
-      "AIS is committed to preserving your privacy. Please read the following privacy policy to understand how we use and protect the information obtained from those visiting and using the website www.aqsa.edu.my (the “Website”). This policy is your guide to how we will handle information we learn about you from your visit to our Website.",
+      "MDTA-HM is committed to preserving your privacy. Please read the following privacy policy to understand how we use and protect the information obtained from those visiting and using the website www.aqsa.edu.my (the “Website”). This policy is your guide to how we will handle information we learn about you from your visit to our Website.",
     Point1: {
       Title:
         "By using the Website you consent to the collection/retention and use of your personal information in accordance with this policy.",
@@ -283,28 +283,28 @@ const en = {
     Title: "Latest News & Activities",
     LatestNews: {
       News1: {
-        Title: "AIS Received Rahmaniya School Delegation",
+        Title: "MDTA-HM Received Rahmaniya School Delegation",
         Para1:
-          "A delegation represented Rahmaniya School - Indonesia visited Al-Aqsa Integrated School (AIS) on 28th Apr 2019. They were received by the principal of the school, Mr. Mohammed Shobaki, and a group of AIS teachers and students.",
+          "A delegation represented Rahmaniya School - Indonesia visited Al-Aqsa Integrated School (MDTA-HM) on 28th Apr 2019. They were received by the principal of the school, Mr. Mohammed Shobaki, and a group of MDTA-HM teachers and students.",
         Para2:
-          "Teacher Ismail Al-Farra gave a welcome speech in Arabic language, and Ms. Silvia Farwana gave it in Bahasa Melayu. The visit came as part of the communication between the Islamic schools as the coordinators of the visit said. AIS students played a dramatic presentation of what happened in Palestine after the wars happened, and student “Jana Thabet” expressed her dream of which she is seeking to achieve, to pray in Al-Aqsa Mosque, after the liberation from occupation.",
+          "Teacher Ismail Al-Farra gave a welcome speech in Arabic language, and Ms. Silvia Farwana gave it in Bahasa Melayu. The visit came as part of the communication between the Islamic schools as the coordinators of the visit said. MDTA-HM students played a dramatic presentation of what happened in Palestine after the wars happened, and student “Jana Thabet” expressed her dream of which she is seeking to achieve, to pray in Al-Aqsa Mosque, after the liberation from occupation.",
         Para3:
           "At the end of the visit, the delegation presented a souvenir of which Mr. Mohammed Shobaki did receive as an expression of the spirit of Islamic brotherhood between the two schools in the hope of continuing the relationship between them.",
       },
       News2: {
-        Title: "'Ebadur Rahman' institute in AIS",
+        Title: "'Ebadur Rahman' institute in MDTA-HM",
         Para1:
           "On April 22, 2019, we were honored to host a group of students of the Ebadur Rahman Institute - Indonesia and some of their teachers. Our students gave a welcoming speech by “Malham Al-Jandali” and “Suad Al-Kuwamaleh” from the 7th grade on behalf of the school’s students.",
         Para2:
-          "In a lecture delivered by Rizq Al-Gharabli, he spoke about the relationship between Arabic language and the Holy Quran, and the importance of learning Arabic for Muslims. At the end of the lecture, there was a Q&A session where the students interacted greatly. As for the status of Al-Aqsa Mosque, “Alaa Al-Tamimi” an AIS teacher gave a valuable lecture explaining the need to preserve and defend this religious and historical heritage and protect it from any aggression.",
+          "In a lecture delivered by Rizq Al-Gharabli, he spoke about the relationship between Arabic language and the Holy Quran, and the importance of learning Arabic for Muslims. At the end of the lecture, there was a Q&A session where the students interacted greatly. As for the status of Al-Aqsa Mosque, “Alaa Al-Tamimi” an MDTA-HM teacher gave a valuable lecture explaining the need to preserve and defend this religious and historical heritage and protect it from any aggression.",
         Para3:
           "To express their thanks and appreciation for this generous visit, our students presented a souvenir represent the strength of the relationship between them and the Institute students.",
       },
     },
   },
-  SchoolName: "Al-Aqsa Integrated School Malaysia (AIS)",
+  SchoolName: "Madrasah Diniyah Takmiliyah Awaliyah Hidaayatul Mutaqien (MDTA-HM)",
   Engage: {
-    Title: "Join AIS",
+    Title: "Join MDTA-HM",
     Fees: {
       Currency: "RM",
       Title: "Fees' Structure",
@@ -641,9 +641,9 @@ const en = {
       },
       Title: "Study Levels",
       Description:
-        "At AIS, we consider the school as a dynamic production team. Administrators, teachers, and students are all contributors to this team, and knowledge & ideas are the products. Since students are the ones who benefit most directly from the product, they should be most concerned that the product is of a high quality. But from our side, we offer all school levels from KG & 1st to 12th, with carefully designed fitting curriculum for each level to have the best components & inputs of the education process to lead to the desired outcomes.",
+        "At MDTA-HM, we consider the school as a dynamic production team. Administrators, teachers, and students are all contributors to this team, and knowledge & ideas are the products. Since students are the ones who benefit most directly from the product, they should be most concerned that the product is of a high quality. But from our side, we offer all school levels from KG & 1st to 12th, with carefully designed fitting curriculum for each level to have the best components & inputs of the education process to lead to the desired outcomes.",
     },
-    Title: "Academics",
+    Title: "Akademik",
     CoCurriculum: {
       CheckOut: "Check Our Co-Curriculum",
       Title: "Co-Curriculum",
@@ -704,7 +704,7 @@ const en = {
         Fiqh: "Islamic Fiqh",
         Culture: "Islamic Culture Education",
         Description:
-          "The religious part of the curriculum is divided into three sections. As for the Islamic Fiqh, AIS depends on the heritage of Imam Shafi’I, and it is keen to teach the Quran and the rules of recitation and memorizing it. In the aspect of Islamic education, the curriculum contains all that develop good Islamic values and manners among students. Curriculum units vary to include Hadith, Prophetic Hadith, Sunnah, and others.",
+          "The religious part of the curriculum is divided into three sections. As for the Islamic Fiqh, MDTA-HM depends on the heritage of Imam Shafi’I, and it is keen to teach the Quran and the rules of recitation and memorizing it. In the aspect of Islamic education, the curriculum contains all that develop good Islamic values and manners among students. Curriculum units vary to include Hadith, Prophetic Hadith, Sunnah, and others.",
       },
       Modern: {
         Modern: "Modern",
@@ -717,13 +717,13 @@ const en = {
         Description:
           "These basic materials aim to provide students with basic computers skills, math and the sciences (Chemistry, Physics and Biology), and trying to develop different skills in art and sports and to discover and develop talents. Math, science and English language courses follow the Cambridge curriculum.",
       },
-      Description: "AIS curriculum contains courses from 3 different divisions",
+      Description: "MDTA-HM curriculum contains courses from 3 different divisions",
     },
   },
   About: {
-    About: "About",
+    About: "Tentang",
     Facilities: {
-      Title: "AIS Facilities",
+      Title: "MDTA-HM Fasilitas",
       Para1:
         "A location of which only 5 km away from Petronas Twin Towers and hundreds of meters away from the key roads of Jalan Tun Razak, Jalan Kuching and DUKE lifted highway guarantee short and fast drive to reach the school. The exact address: No 5, Jalan Pahang Kecil, 53200 Kuala Lumpur, could also be found by ‘map-googling’ “Al-Aqsa Integrated School”. School bus service offered in the time-being covers the areas of (Batu Caves, Gombak, Medan Idaman, Setapak and Wangsa Maju).",
       Para2:
@@ -732,7 +732,7 @@ const en = {
     Vision: {
       Title: "Vision",
       Description:
-        "AIS being the leading school in teaching modern sciences, Islamic knowledge and the Palestine-related knowledge in Klang Valley area.",
+        "MDTA-HM being the leading school in teaching modern sciences, Islamic knowledge and the Palestine-related knowledge in Klang Valley area.",
     },
     Mission: {
       Title: "Mission",
@@ -771,21 +771,21 @@ const en = {
           "Raise the performance level of students in Islamic knowledge like Quran memorization & recitation and Islamic teachings implementations.",
       },
     },
-    Title: "About AIS",
+    Title: "Tentang MDTA-HM",
     Description:
-      "Al-Aqsa Integrated School Malaysia (AIS) is an international school founded in Kuala Lumpur, Malaysia and launched its first semester on October 2018. The main purpose of founding AIS was to offer education to families around Klang Valley a satisfying education level and good environment.",
+      "Al-Aqsa Integrated School Malaysia (MDTA-HM) is an international school founded in Kuala Lumpur, Malaysia and launched its first semester on October 2018. The main purpose of founding MDTA-HM was to offer education to families around Klang Valley a satisfying education level and good environment.",
     WhyAIS: {
-      WhyAIS: "Why AIS",
-      Title: "AIS Competitive Advantages",
+      WhyAIS: "Mengapa MDTA-HM?",
+      Title: "MDTA-HM Competitive Advantages",
       Islamic: {
         Title: "Best Islamic & Arabic Education",
         Description:
-          "Islamic knowledge is a major part of AIS education process, where students learn and memorize Quranic verses & Hadith and fed the basic Islamic principles & perfect-Muslim behavior. Arabic language is – as well – a pillar of AIS curriculum, where fundamental grammars of the language are taught, beside the practical exercise as Arabic is a one of two instruction languages of AIS. The school cares a lot to raise kids with Islamic teachings, and to reserve the Arabic language by practice.",
+          "Islamic knowledge is a major part of MDTA-HM education process, where students learn and memorize Quranic verses & Hadith and fed the basic Islamic principles & perfect-Muslim behavior. Arabic language is – as well – a pillar of MDTA-HM curriculum, where fundamental grammars of the language are taught, beside the practical exercise as Arabic is a one of two instruction languages of MDTA-HM. The school cares a lot to raise kids with Islamic teachings, and to reserve the Arabic language by practice.",
       },
       Cambridge: {
         Title: "Cambridge Sciences' Curriculum",
         Description:
-          "At the same time, AIS do not put away modern sciences’ knowledge. So that, the school administration constructed a special curriculum combines Cambridge’s curriculum for sciences, Islamic and Arabic curriculum. As for Palestinian students, raising them with the love of Palestine planted in their hearts is a top priority, and having Palestinian issue considered in their life goals is raised with Palestine-connected environment.",
+          "At the same time, MDTA-HM do not put away modern sciences’ knowledge. So that, the school administration constructed a special curriculum combines Cambridge’s curriculum for sciences, Islamic and Arabic curriculum. As for Palestinian students, raising them with the love of Palestine planted in their hearts is a top priority, and having Palestinian issue considered in their life goals is raised with Palestine-connected environment.",
       },
       Reasonable: {
         Title: "Reasonable Charges",
@@ -794,7 +794,7 @@ const en = {
       },
     },
     Beginnings: {
-      Title: "AIS Beginnings",
+      Title: "MDTA-HM Beginnings",
       Para1:
         "In 2017, most international families around Klang Valley did try to register their children to public schools in Malaysia, but more than 90% of them did not manage to. So they headed to private schools, trying to find an affordable school where their children would have good education at appropriate costs, and they failed to find such schools.",
       Para2:
@@ -804,8 +804,8 @@ const en = {
     },
   },
   Contact: {
-    Contact: "Contact",
-    Title: "Contact AIS",
+    Contact: "Kontak",
+    Title: "Kontak MDTA-HM",
     FormTitle: "You Could Fill Up this Form",
     FormButton: "Submit now",
     MsgSent: "Your message has been sent. TQ :)",

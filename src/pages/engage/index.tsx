@@ -1,4 +1,4 @@
-import PageHeader from "@/src/components/Common/PageHeader";
+import PageHeader from "@/src/components/common/PageHeader";
 import DiscountSection from "@/components/Engage/DiscountsSection";
 import FeesSection from "@/components/Engage/FeesSection";
 import JobsSection from "@/components/Engage/JobsSection";

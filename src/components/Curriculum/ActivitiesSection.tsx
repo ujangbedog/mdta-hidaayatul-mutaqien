@@ -6,10 +6,10 @@ import SportsVolleyballIcon from "@mui/icons-material/SportsVolleyball";
 import TranslateIcon from "@mui/icons-material/Translate";
 import VideogameAssetIcon from "@mui/icons-material/VideogameAsset";
 import { useRouter } from "next/router";
-import PageSection from "../Common/PageSection";
-import PageSectionColumn from "../Common/PageSectionColumn";
-import StaticList from "../Common/StaticList";
-import Text from "../Common/Text";
+import PageSection from "../common/PageSection";
+import PageSectionColumn from "../common/PageSectionColumn";
+import StaticList from "../common/StaticList";
+import Text from "../common/Text";
 import {
   AccountBalance,
   Brightness3,

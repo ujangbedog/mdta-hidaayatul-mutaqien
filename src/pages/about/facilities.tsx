@@ -1,5 +1,5 @@
 import Facilities from "@/components/About/Facilities";
-import PageHeader from "@/src/components/Common/PageHeader";
+import PageHeader from "@/src/components/common/PageHeader";
 import useTranslation from "@/hooks/useTranslation";
 import { departmentColors } from "@/utils/constants";
 import { Stack } from "@mui/material";

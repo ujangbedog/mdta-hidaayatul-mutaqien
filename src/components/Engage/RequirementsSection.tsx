@@ -11,10 +11,10 @@ import {
 import { useRouter } from "next/router";
 import React, { useState } from "react";
 
-import CardComp from "../Common/Card";
-import PageSection from "../Common/PageSection";
-import PageSectionColumn from "../Common/PageSectionColumn";
-import Text from "../Common/Text";
+import CardComp from "../common/Card";
+import PageSection from "../common/PageSection";
+import PageSectionColumn from "../common/PageSectionColumn";
+import Text from "../common/Text";
 
 const RequirementsSection = () => {
   const router = useRouter();

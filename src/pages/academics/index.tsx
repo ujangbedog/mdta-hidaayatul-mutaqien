@@ -1,4 +1,4 @@
-import PageHeader from "@/src/components/Common/PageHeader";
+import PageHeader from "@/src/components/common/PageHeader";
 import CoursesSection from "@/components/Curriculum/CoursesSection";
 import IslamicSection from "@/components/Curriculum/IslamicSection";
 import LanguagesSection from "@/components/Curriculum/LanguagesSection";

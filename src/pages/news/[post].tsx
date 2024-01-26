@@ -1,7 +1,7 @@
 import { latestNews } from "@/components/Community/NewsSection";
-import PageSection from "@/src/components/Common/PageSection";
-import PageSectionColumn from "@/src/components/Common/PageSectionColumn";
-import Text from "@/src/components/Common/Text";
+import PageSection from "@/src/components/common/PageSection";
+import PageSectionColumn from "@/src/components/common/PageSectionColumn";
+import Text from "@/src/components/common/Text";
 import useTranslation from "@/hooks/useTranslation";
 import { useRouter } from "next/router";
 

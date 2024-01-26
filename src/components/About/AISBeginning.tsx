@@ -2,9 +2,9 @@ import useTranslation from "@/hooks/useTranslation";
 import theme from "@/styles/theme";
 import { useRouter } from "next/router";
 
-import PageSection from "../Common/PageSection";
-import PageSectionColumn from "../Common/PageSectionColumn";
-import Text from "../Common/Text";
+import PageSection from "../common/PageSection";
+import PageSectionColumn from "../common/PageSectionColumn";
+import Text from "../common/Text";
 
 const AISBeginning = () => {
   const router = useRouter();

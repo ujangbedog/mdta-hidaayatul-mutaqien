@@ -1,4 +1,4 @@
-import PageHeader from "@/src/components/Common/PageHeader";
+import PageHeader from "@/src/components/common/PageHeader";
 import DataProtection from "@/components/Consents/DataProtection";
 import useTranslation from "@/hooks/useTranslation";
 import { departmentColors } from "@/utils/constants";

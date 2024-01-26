@@ -2,10 +2,10 @@ import useTranslation from "@/hooks/useTranslation";
 import theme from "@/styles/theme";
 import { useRouter } from "next/router";
 
-import Column from "../Common/Column";
-import PageSection from "../Common/PageSection";
-import Row from "../Common/Row";
-import Text from "../Common/Text";
+import Column from "../common/Column";
+import PageSection from "../common/PageSection";
+import Row from "../common/Row";
+import Text from "../common/Text";
 import { Button } from "@mui/material";
 
 const RegisterSection = () => {

@@ -1,8 +1,8 @@
 import { GridLayoutStyles, SquaresShape } from "@/components/Landing/styles";
-import PageSection from "@/src/components/Common/PageSection";
-import PageSectionColumn from "@/src/components/Common/PageSectionColumn";
-import Square from "@/src/components/Common/Square";
-import Text from "@/src/components/Common/Text";
+import PageSection from "@/src/components/common/PageSection";
+import PageSectionColumn from "@/src/components/common/PageSectionColumn";
+import Square from "@/src/components/common/Square";
+import Text from "@/src/components/common/Text";
 import useTranslation from "@/hooks/useTranslation";
 import { Box, Stack } from "@mui/material";
 import Avatar from "@mui/material/Avatar";

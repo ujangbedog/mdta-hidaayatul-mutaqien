@@ -1,4 +1,4 @@
-import PageHeader from "@/src/components/Common/PageHeader";
+import PageHeader from "@/src/components/common/PageHeader";
 import LevelSection from "@/components/Curriculum/LevelSection";
 import useTranslation from "@/hooks/useTranslation";
 import theme from "@/styles/theme";

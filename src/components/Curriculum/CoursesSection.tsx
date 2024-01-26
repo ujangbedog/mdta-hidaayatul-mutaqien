@@ -2,11 +2,11 @@ import useTranslation from "@/hooks/useTranslation";
 import theme from "@/styles/theme";
 import { useRouter } from "next/router";
 
-import PageSection from "../Common/PageSection";
-import PageSectionColumn from "../Common/PageSectionColumn";
-import Square from "../Common/Square";
-import Column from "../Common/Column";
-import Text from "../Common/Text";
+import PageSection from "../common/PageSection";
+import PageSectionColumn from "../common/PageSectionColumn";
+import Square from "../common/Square";
+import Column from "../common/Column";
+import Text from "../common/Text";
 
 const CoursesSection = () => {
   const router = useRouter();
