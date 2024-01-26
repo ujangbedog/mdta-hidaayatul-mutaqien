@@ -1,11 +1,11 @@
-import PageSection from "@/src/components/common/PageSection";
-import PageSectionColumn from "@/src/components/common/PageSectionColumn";
+import PageSection from "@/src/components/Common/PageSection";
+import PageSectionColumn from "@/src/components/Common/PageSectionColumn";
 import useTranslation from "@/hooks/useTranslation";
 import theme from "@/styles/theme";
 import { useRouter } from "next/router";
 
-import PhotoGallery from "../common/PhotoGallery";
-import Text from "../common/Text";
+import PhotoGallery from "../Common/PhotoGallery";
+import Text from "../Common/Text";
 
 type Photo = {
   img: string;

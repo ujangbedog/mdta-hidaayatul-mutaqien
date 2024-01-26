@@ -3,12 +3,12 @@ import theme from "@/styles/theme";
 import { Grid, Stack } from "@mui/material";
 import { useRouter } from "next/router";
 
-import PageSection from "../common/PageSection";
-import PageSectionColumn from "../common/PageSectionColumn";
-import Square from "../common/Square";
-import Column from "../common/Column";
-import Row from "../common/Row";
-import Text from "../common/Text";
+import PageSection from "../Common/PageSection";
+import PageSectionColumn from "../Common/PageSectionColumn";
+import Square from "../Common/Square";
+import Column from "../Common/Column";
+import Row from "../Common/Row";
+import Text from "../Common/Text";
 
 interface FeeCardsProps {
   templateId: string;

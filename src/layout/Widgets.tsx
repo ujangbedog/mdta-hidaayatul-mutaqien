@@ -1,6 +1,6 @@
-import Column from "@/src/components/common/Column";
-import Row from "@/src/components/common/Row";
-import Text from "@/src/components/common/Text";
+import Column from "@/src/components/Common/Column";
+import Row from "@/src/components/Common/Row";
+import Text from "@/src/components/Common/Text";
 import useTranslation from "@/hooks/useTranslation";
 import theme from "@/styles/theme";
 import {
@@ -16,7 +16,7 @@ import Avatar from "@mui/material/Avatar";
 import Link from "next/link";
 import { useRouter } from "next/router";
 
-import Square from "../components/common/Square";
+import Square from "../components/Common/Square";
 
 const Widgets = () => {
   const router = useRouter();

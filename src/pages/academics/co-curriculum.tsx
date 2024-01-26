@@ -1,4 +1,4 @@
-import PageHeader from "@/src/components/common/PageHeader";
+import PageHeader from "@/src/components/Common/PageHeader";
 import ActivitiesSection from "@/components/Curriculum/ActivitiesSection";
 import ClubsSection from "@/components/Curriculum/ClubsSection";
 import CoCorriculumSection from "@/components/Curriculum/CoCuSection";

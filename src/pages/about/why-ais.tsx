@@ -1,7 +1,7 @@
 import AdvantagesSection from "@/components/About/AdvantagesSection";
 import AISBeginning from "@/components/About/AISBeginning";
 import VisionMissionObjectives from "@/components/About/VisionMissionObjectives";
-import PageHeader from "@/src/components/common/PageHeader";
+import PageHeader from "@/src/components/Common/PageHeader";
 import useTranslation from "@/hooks/useTranslation";
 import { departmentColors } from "@/utils/constants";
 import { Stack } from "@mui/material";

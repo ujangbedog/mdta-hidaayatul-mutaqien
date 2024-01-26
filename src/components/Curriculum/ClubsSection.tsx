@@ -7,10 +7,10 @@ import MenuBookSharpIcon from "@mui/icons-material/MenuBookSharp";
 import PsychologyIcon from "@mui/icons-material/Psychology";
 import { useRouter } from "next/router";
 
-import PageSection from "../common/PageSection";
-import PageSectionColumn from "../common/PageSectionColumn";
-import StaticList from "../common/StaticList";
-import Text from "../common/Text";
+import PageSection from "../Common/PageSection";
+import PageSectionColumn from "../Common/PageSectionColumn";
+import StaticList from "../Common/StaticList";
+import Text from "../Common/Text";
 import {
   Checkroom,
   Construction,

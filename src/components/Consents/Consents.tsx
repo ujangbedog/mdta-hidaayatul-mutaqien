@@ -1,8 +1,8 @@
 import React, { FC } from "react";
-import PageSectionColumn from "@/src/components/common/PageSectionColumn";
+import PageSectionColumn from "@/src/components/Common/PageSectionColumn";
 import theme from "@/styles/theme";
 
-import Text from "../common/Text";
+import Text from "../Common/Text";
 
 export interface data {
   title: any;

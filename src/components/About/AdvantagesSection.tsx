@@ -4,10 +4,10 @@ import Avatar from "@mui/material/Avatar";
 import { useRouter } from "next/router";
 import { Fragment } from "react";
 
-import CardComp from "../common/Card";
-import PageSection from "../common/PageSection";
-import PageSectionColumn from "../common/PageSectionColumn";
-import Text from "../common/Text";
+import CardComp from "../Common/Card";
+import PageSection from "../Common/PageSection";
+import PageSectionColumn from "../Common/PageSectionColumn";
+import Text from "../Common/Text";
 
 const AdvantagesSection = () => {
   const router = useRouter();

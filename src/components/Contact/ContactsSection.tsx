@@ -5,12 +5,12 @@ import LocalPhoneIcon from "@mui/icons-material/LocalPhone";
 import PushPinIcon from "@mui/icons-material/PushPin";
 import { useRouter } from "next/router";
 
-import CardComp from "../common/Card";
-import PageSection from "../common/PageSection";
-import PageSectionColumn from "../common/PageSectionColumn";
-import Column from "../common/Column";
-import Row from "../common/Row";
-import Text from "../common/Text";
+import CardComp from "../Common/Card";
+import PageSection from "../Common/PageSection";
+import PageSectionColumn from "../Common/PageSectionColumn";
+import Column from "../Common/Column";
+import Row from "../Common/Row";
+import Text from "../Common/Text";
 
 const ContactsSection = () => {
   const router = useRouter();

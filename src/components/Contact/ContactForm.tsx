@@ -4,11 +4,11 @@ import { Alert, Button, Snackbar, TextField } from "@mui/material";
 import { useRouter } from "next/router";
 import { useState } from "react";
 
-import Column from "../common/Column";
-import PageSection from "../common/PageSection";
-import PageSectionColumn from "../common/PageSectionColumn";
-import Row from "../common/Row";
-import Text from "../common/Text";
+import Column from "../Common/Column";
+import PageSection from "../Common/PageSection";
+import PageSectionColumn from "../Common/PageSectionColumn";
+import Row from "../Common/Row";
+import Text from "../Common/Text";
 
 const ContactForm = () => {
   const router = useRouter();

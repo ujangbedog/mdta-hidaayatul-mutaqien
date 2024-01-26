@@ -1,8 +1,8 @@
-import Column from "@/src/components/common/Column";
-import PageHeader from "@/src/components/common/PageHeader";
-import PageSection from "@/src/components/common/PageSection";
-import Row from "@/src/components/common/Row";
-import Text from "@/src/components/common/Text";
+import Column from "@/src/components/Common/Column";
+import PageHeader from "@/src/components/Common/PageHeader";
+import PageSection from "@/src/components/Common/PageSection";
+import Row from "@/src/components/Common/Row";
+import Text from "@/src/components/Common/Text";
 import useTranslation from "@/hooks/useTranslation";
 import { departmentColors } from "@/utils/constants";
 import { Stack } from "@mui/material";
