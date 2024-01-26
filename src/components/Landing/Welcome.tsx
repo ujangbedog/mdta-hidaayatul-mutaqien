@@ -95,7 +95,7 @@ const WelcomeSection = () => {
               <Avatar
                 variant="square"
                 alt="Main Image"
-                src={"/images/main-mdta.jpg"}
+                src={"/images/main-mdta.JPG"}
                 sx={{
                   width: "100%",
                   height: "100%",
