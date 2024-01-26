@@ -19,9 +19,9 @@ const AboutSection = () => {
       text: t("About.WhyAIS.Islamic.Title"),
     },
     {
-      src: "/images/Cambridge.png",
+      src: "/images/Integrated.png",
       alt: "cambridge-icon",
-      text: t("About.WhyAIS.Cambridge.Title"),
+      text: t("About.WhyAIS.Integrated.Title"),
     },
     {
       src: "/images/Cheap.png",

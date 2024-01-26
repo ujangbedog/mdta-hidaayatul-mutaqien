@@ -12,8 +12,6 @@ const AISBeginning = () => {
 
   const paragraphs = [
     t(`About.Beginnings.Para1`),
-    t(`About.Beginnings.Para2`),
-    t(`About.Beginnings.Para3`),
   ];
 
   return (

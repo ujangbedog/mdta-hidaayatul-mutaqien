@@ -21,10 +21,10 @@ const AdvantagesSection = () => {
       longText: t("About.WhyAIS.Islamic.Description"),
     },
     {
-      src: "/images/Cambridge.png",
+      src: "/images/Integrated.png",
       alt: "cambridge-icon",
-      text: t("About.WhyAIS.Cambridge.Title"),
-      longText: t("About.WhyAIS.Cambridge.Description"),
+      text: t("About.WhyAIS.Integrated.Title"),
+      longText: t("About.WhyAIS.Integrated.Description"),
     },
     {
       src: "/images/Cheap.png",

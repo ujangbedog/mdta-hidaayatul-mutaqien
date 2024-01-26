@@ -38,7 +38,7 @@ function ResponsiveAppBar() {
       title: t("About.About"),
       link: "/tentang",
       links: [
-        { title: t("About.WhyAIS.WhyAIS"), link: "/why-ais" },
+        { title: t("About.WhyAIS.WhyAIS"), link: "/why-us" },
         { title: t("About.Facilities.Title"), link: "/facilities" },
         { title: t("About.Guru.Title"), link: "/staf-pengajar" },
         { title: t("About.Teknisi.Title"), link: "/staf-it" },

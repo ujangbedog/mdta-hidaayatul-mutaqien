@@ -805,45 +805,45 @@ const en = {
         "The school campus includes 3 buildings hosting the classrooms & labs beside the managment offices, visitors reception and services area. Additionally, there is an outdoor field for outdoor activities, with expanding plans in future.",
     },
     Vision: {
-      Title: "Vision",
+      Title: "Visi",
       Description:
-        "MDTA-HM being the leading school in teaching modern sciences, Islamic knowledge and the Palestine-related knowledge in Klang Valley area.",
+        "Lahirnya sumber daya manusia yang religious, saintis, berjiwa entrepreneur, berwawasan international, cinta lingkungan dan menjadi lentera Peradaban dunia.",
     },
     Mission: {
-      Title: "Mission",
+      Title: "Misi",
       Description:
-        "To educate our kids the authentic Islamic heritage, keep them up with the contemporary sciences and enhance the Palestinian-issue value among them. Enable the coming generation to acquire tools of creativity and keys of consciousness, to embark on all fields of life and make their remarkable contribution.",
+        "Madrasah Diniyah Takmiliyah Awaliyah Hidaayatul Mutaqien memiliki misi yang komprehensif untuk menciptakan lingkungan pendidikan yang holistik dan berdaya dukung. Dengan berfokus pada pendekatan pembelajaran yang berpusat pada murid, madrasah ini menitikberatkan pada pengembangan keterampilan sosial, emosional, fisik, dan intelektual. Melalui penyelenggaraan program-program yang mengedepankan nilai-nilai, madrasah memberikan kesempatan kepada murid untuk membentuk karakter yang tangguh dan memiliki rasa cinta tanah air. Dengan semangat kolaborasi, madrasah aktif mengajak seluruh komponen, termasuk orang tua, untuk terlibat dalam membangun komunitas belajar yang solid. Selain itu, upaya berkelanjutan dalam peningkatan kualitas pendidikan dan penjaminan mutu menjadi landasan utama untuk memastikan pengembangan pendidikan yang berkesinambungan.",
     },
     Objectives: {
       Title: "Objectives",
       MoralCompass: {
         Title: "Moral Compass",
         Description:
-          "Feeding students’ behavior and values in accordance with the Islamic teachings.",
+          "Panduan moral yang memberikan arahan terhadap perilaku dan nilai-nilai Santri sesuai dengan ajaran Islam.",
       },
       CharacterBuilding: {
-        Title: "Character Building",
+        Title: "Pembangunan Karakter",
         Description:
-          "Develop kids’ awareness and build independent personalities.",
+          "Membentuk kesadaran para Santri dan membangun kepribadian mandiri melalui penanaman nilai-nilai, kebajikan, dan prinsip etika yang mendasar.",
       },
       Creativity: {
-        Title: "Creativity",
-        Description: "Discover, embrace and motivate creative thinking.",
+        Title: "Kreativitas",
+        Description: "Menemukan, merangkul, dan memotivasi pemikiran kreatif.",
       },
       ApplicableKnowledge: {
-        Title: "Applicable Knowledge",
+        Title: "Pengetahuan yang dapat diterapkan.",
         Description:
-          "Connect students’ theoretical knowledge to the practical fields of life.",
+          "Menghubungkan pengetahuan teoritis Santri dengan bidang praktis kehidupan.",
       },
       QuranReservation: {
-        Title: "Quran Reservation",
+        Title: "Generasi Qur'ani",
         Description:
-          "Raise the performance level of students in Islamic knowledge like Quran memorization & recitation and Islamic teachings implementations.",
+          "Meningkatkan tingkat kinerja Santri dalam pengetahuan Islam seperti menghafal dan membaca Al-Quran serta implementasi ajaran Islam.",
       },
       Palestine: {
-        Title: "Palestine",
+        Title: "Cinta Tanah Air",
         Description:
-          "Raise the performance level of students in Islamic knowledge like Quran memorization & recitation and Islamic teachings implementations.",
+          "Menciptakan semangat kebangsaan dan rasa kesetiaan yang mendalam terhadap negara, mendorong partisipasi aktif dalam pembangunan dan pelestarian nilai-nilai budaya.",
       },
     },
     Title: "Tentang MDTA-HM",
@@ -851,31 +851,27 @@ const en = {
       "Madrasah Diniyah Takmiliyah Awaliyah (MDTA) Hidaayatul Mutaqien adalah sebuah Madrasah agama yang berdiri dibawah naungan Yayasan Sanusiah Al-Mansyuriah Sumedang, Pimpinan Kasepuhan Bpk. K.H. Ita Zaenal Mutaqien yang beralamat di Desa Cigintung, Kecamatan Cisitu, Kabupaten Sumedang. Dewasa ini, Madrasah yang fokus dikembangkan adalah Madrasah Diniyah Awaliyah (MDTA) berdiri pada tahun 2009  dan mendapatkan izin dari kementrian Agama kabupaten Sumedang pada tahun 2010, disaat pemerintah kabupaten Sumedang mengatur tentang program wajib diniyah dengan mengeluarkan Perda No 02 tahun 2009.",
     WhyAIS: {
       WhyAIS: "Mengapa MDTA-HM?",
-      Title: "MDTA-HM Competitive Advantages",
+      Title: "Keunggulan Bersaing MDTA-HM",
       Islamic: {
-        Title: "Best Islamic & Arabic Education",
+        Title: "Keislaman Paripurna",
         Description:
-          "Islamic knowledge is a major part of MDTA-HM education process, where students learn and memorize Quranic verses & Hadith and fed the basic Islamic principles & perfect-Muslim behavior. Arabic language is – as well – a pillar of MDTA-HM curriculum, where fundamental grammars of the language are taught, beside the practical exercise as Arabic is a one of two instruction languages of MDTA-HM. The school cares a lot to raise kids with Islamic teachings, and to reserve the Arabic language by practice.",
+          "Madrasah Diniyah Takmiliyah Awaliyah Hidaayatul Mutaqien bertujuan memberikan pendidikan agama Islam secara menyeluruh kepada Santri. Dengan pendekatan komprehensif, madrasah ini tidak hanya menekankan pemahaman Al-Qur'an dan Hadis, tetapi juga mengaktifkan Santri dalam praktik ibadah sehari-hari. Lebih dari sekadar pendidikan agama, madrasah ini fokus pada pembentukan karakter Islami, mengajarkan nilai-nilai moral seperti kejujuran dan kesabaran.",
       },
-      Cambridge: {
-        Title: "Cambridge Sciences' Curriculum",
+      Integrated: {
+        Title: "Kurikulum Terintegritas",
         Description:
-          "At the same time, MDTA-HM do not put away modern sciences’ knowledge. So that, the school administration constructed a special curriculum combines Cambridge’s curriculum for sciences, Islamic and Arabic curriculum. As for Palestinian students, raising them with the love of Palestine planted in their hearts is a top priority, and having Palestinian issue considered in their life goals is raised with Palestine-connected environment.",
+          "Madrasah Diniyah Takmiliyah Awaliyah Hidaayatul Mutaqien menonjolkan pendekatan kurikulum terintegrasi, yang menggabungkan aspek akademis dan keislaman secara holistik. Kurikulum ini tidak hanya menitikberatkan pada penguasaan materi akademis, melainkan juga mengintegrasikan nilai-nilai Islam dalam setiap mata pelajaran.",
       },
       Reasonable: {
-        Title: "Reasonable Charges",
+        Title: "Harga Bersahabat",
         Description:
-          "Yet still our main competitive advantage is to provide a low-cost and good-level education to those who cannot afford the good-level but expensive schools, and those who do not prefer low-cost but low-level education schools. Now, how we do it? It is our job to find sponsors who could cover part of the school costs, and not keep it all to parents to pay.",
+          "Madrasah Diniyah Takmiliyah Awaliyah Hidaayatul Mutaqien menawarkan pengalaman pendidikan yang bermakna dengan harga bersahabat. Komitmen untuk memberikan akses pendidikan berkualitas tanpa membebani orang tua atau wali santri secara finansial menjadi salah satu prioritas madrasah ini.",
       },
     },
     Beginnings: {
-      Title: "MDTA-HM Beginnings",
+      Title: "Sejarah Madrasah Diniyah Takmiliyah Awaliyah (MDTA) Hidaayatul Mutaqien",
       Para1:
-        "In 2017, most international families around Klang Valley did try to register their children to public schools in Malaysia, but more than 90% of them did not manage to. So they headed to private schools, trying to find an affordable school where their children would have good education at appropriate costs, and they failed to find such schools.",
-      Para2:
-        "So of that, many of these families did not register their kids to any school since their arrival to Malaysia and kept their kids home. Others, those who did register their kids to schools, were in bad financial situations due to the high charges, beside the fact that most of those parents are university students. In some cases, they were not satisfied with the education level and the culture those schools promoted.",
-      Para3:
-        "At that time, a group of those parents gathered to discuss a solutions, and they decided that the only way is to form the solution by their-selves. So they planed, raised some money, find suitable building and established the school to pass all mentioned obstacles, and the school was operating by October 2018. So, there are no commercial purposes behind the school establishment, it solely goal is to provide a solution for a dilemma many international families around Kalng Valley did have.",
+        "Madrasah Diniyah Takmiliyah Awaliyah (MDTA) Hidaayatul Mutaqien adalah sebuah Madrasah agama yang berdiri dibawah naungan Yayasan Sanusiah Al-Mansyuriah Sumedang, Pimpinan Kasepuhan Bpk. K.H. Ita Zaenal Mutaqien yang beralamat di desa Cigintung Kecamatan Cisitu kabupaten Sumedang. Dewasa ini, Madrasah yang fokus dikembangkan adalah Madrasah Diniyah Awaliyah (MDTA) berdiri pada tahun 2009  dan mendapatkan izin dari kementrian Agama kabupaten Kuningan pada tahun 2010, disaat pemerintah kabupaten Sumedang mengatur tentang program wajib diniyah dengan mengeluarkan Perda No 02 tahun 2009.",
     },
   },
   Contact: {
